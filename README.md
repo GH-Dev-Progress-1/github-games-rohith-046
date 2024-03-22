@@ -2,7 +2,7 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-You can play the game at: [https://githubschool.github.io/github-games/](https://gh-dev-progress-1.github.io/github-games-rohith-046/)
+You can play the game at: https://gh-dev-progress-1.github.io/github-games-rohith-046/
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
